@@ -1,7 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;700&display=swap');
     
         body {
-            font-family: Arial, sans-serif;
+           font-family: Inknut Antiqua;
             margin: 0;
             padding: 0;
             /* max-width: 80%; */
@@ -28,6 +28,11 @@
             padding: 10px 20px;
         }
 
+        img {
+            width: 250px;
+            height: 295px;
+            border-radius: 10px;
+        }
         .logo h1 {
             margin: 0;
             font-size: 24px;
